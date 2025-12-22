@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Antonio Payá González</h1>
 
 
-<p>PhD Student in Computer Science | Fullstack & DevSecOps developer</p>
+<p>PhD in Computer Science | Software Architect at TheNextPangea S.L.</p>
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/antoniopaya22" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://orcid.org/0000-0003-3733-3805" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/orcid-%A6CE39.svg?&style=for-the-badge&logo=orcid&logoColor=white" /></a> <a href="https://www.linkedin.com/in/antonioalfa22" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@antonioalfa22" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
