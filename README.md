@@ -37,7 +37,7 @@ Investigador en Software-Defined Perimeters, Intrusion Detection Systems y Adver
 
 ---
 
-### � Selected Publications
+### 📚 Selected Publications
 
 | # | Title | Journal | Year |
 |---|-------|---------|------|
