@@ -2,11 +2,11 @@
 
 # Antonio Payá González
 
-**Software Architect** · **PhD in Computer Science**
+**Software Architect** · **University Lecturer @ UNIR** · **PhD in Computer Engineering**
 
-Arquitecto de Software en [TheNextPangea](https://thenextpangea.com/) y Doctor en Ingeniería Informática por la [Universidad de Oviedo](https://www.uniovi.es/).  
-Especializado en arquitecturas cloud escalables, productivización de IA y ciberseguridad.  
-Investigador en Software-Defined Perimeters, Intrusion Detection Systems y Adversarial Machine Learning.
+Software Architect at [TheNextPangea](https://thenextpangea.com/), Lecturer at the [International University of La Rioja (UNIR)](https://www.unir.net/) and PhD in Computer Engineering from the [University of Oviedo](https://www.uniovi.es/).  
+Focused on scalable cloud architectures, AI productization and cybersecurity.  
+Researcher in Software-Defined Perimeters, Intrusion Detection Systems and Adversarial Machine Learning.
 
 [![Website](https://img.shields.io/badge/Website-antoniopaya22.github.io-0A0A0A?style=for-the-badge&logo=github-pages&logoColor=white)](https://antoniopaya22.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-antoniopaya22-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniopaya22)
@@ -22,15 +22,16 @@ Investigador en Software-Defined Perimeters, Intrusion Detection Systems y Adver
 ### 🧑‍💻 About Me
 
 - 🏗️ **Software Architect** at TheNextPangea S.L. — designing scalable cloud architectures (AWS, Azure, GCP) and deploying AI models to production
-- 🎓 **PhD in Computer Science** — Universidad de Oviedo, research on SDP, IDS and Adversarial ML
+- 👨‍🏫 **Lecturer** at [UNIR](https://www.unir.net/) (since Sept 2026) — Bachelor's Degree in Cybersecurity, Master's Degree in Cybersecurity, and Master's Degree in Digital Transformation through Disruptive Technologies
+- 🎓 **PhD in Computer Engineering** — University of Oviedo, research on SDP, IDS and Adversarial ML
 - 📝 Writer & Editor at [Better Programming](https://medium.com/better-programming) and [Coinmonks](https://medium.com/coinmonks) on Medium
 - 📍 Gijón, Asturias, Spain
 
 <table>
   <tr>
     <td align="center"><b>5</b><br>JCR Publications</td>
-    <td align="center"><b>128+</b><br>Citations</td>
-    <td align="center"><b>7+</b><br>Years Experience</td>
+    <td align="center"><b>200+</b><br>Citations</td>
+    <td align="center"><b>8+</b><br>Years Experience</td>
     <td align="center"><b>2</b><br>Hackathons Won</td>
   </tr>
 </table>
@@ -95,28 +96,15 @@ Investigador en Software-Defined Perimeters, Intrusion Detection Systems y Adver
       <td><img alt="Issues" src="https://img.shields.io/github/issues/antoniopaya22/Software-Defined-Perimeter?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/antoniopaya22/Software-Defined-Perimeter?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/antoniopaya22/apollon"><b>Apollon — Adversarial ML Defence for IDS</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/antoniopaya22/apollon?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/antoniopaya22/apollon?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/antoniopaya22/apollon?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/antoniopaya22/apollon?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=antoniopaya22&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=antoniopaya22&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" />
-    <img alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=antoniopaya22&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=antoniopaya22&hide_border=true&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=antoniopaya22&hide_border=true" />
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=antoniopaya22&hide_border=true" />
-  </picture>
-</p>
 
 ---
 
