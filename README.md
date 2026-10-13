@@ -2,9 +2,9 @@
 
 # Antonio Payá González
 
-**Software Architect** · **University Lecturer @ UNIR** · **PhD in Computer Engineering**
+**Software Architect** · **University Professor @ UNIR** · **PhD in Computer Engineering**
 
-Software Architect at [TheNextPangea](https://thenextpangea.com/), Lecturer at the [International University of La Rioja (UNIR)](https://www.unir.net/) and PhD in Computer Engineering from the [University of Oviedo](https://www.uniovi.es/).  
+Software Architect at [TheNextPangea](https://thenextpangea.com/), Professor at the [International University of La Rioja (UNIR)](https://www.unir.net/) and PhD in Computer Engineering from the [University of Oviedo](https://www.uniovi.es/).  
 Focused on scalable cloud architectures, AI productization and cybersecurity.  
 Researcher in Software-Defined Perimeters, Intrusion Detection Systems and Adversarial Machine Learning.
 
@@ -22,7 +22,7 @@ Researcher in Software-Defined Perimeters, Intrusion Detection Systems and Adver
 ### 🧑‍💻 About Me
 
 - 🏗️ **Software Architect** at TheNextPangea S.L. — designing scalable cloud architectures (AWS, Azure, GCP) and deploying AI models to production
-- 👨‍🏫 **Lecturer** at [UNIR](https://www.unir.net/) (since Sept 2026) — Bachelor's Degree in Cybersecurity, Master's Degree in Cybersecurity, and Master's Degree in Digital Transformation through Disruptive Technologies
+- 👨‍🏫 **Professor** at [UNIR](https://www.unir.net/) (since Sept 2026) — Bachelor's Degree in Cybersecurity, Master's Degree in Cybersecurity, and Master's Degree in Digital Transformation through Disruptive Technologies
 - 🎓 **PhD in Computer Engineering** — University of Oviedo, research on SDP, IDS and Adversarial ML
 - 📝 Writer & Editor at [Better Programming](https://medium.com/better-programming) and [Coinmonks](https://medium.com/coinmonks) on Medium
 - 📍 Gijón, Asturias, Spain
