@@ -47,7 +47,7 @@ export const antonio = {
 
 | Repository | What it is | ⭐ |
 |---|---|---|
-| [**go-rest-template**](https://github.com/antoniopaya22/go-rest-template) | Production-ready Go REST API template with Gin | ![stars](https://img.shields.io/github/stars/antoniopaya22/go-rest-template?style=flat-square&label=&color=0F1319&logo=github) |
+| [**go-rest-template**](https://github.com/antoniopaya22/go-rest-template) | Modern Go 1.26 REST API template: chi, OpenAPI 3.1, JWT, PostgreSQL | ![stars](https://img.shields.io/github/stars/antoniopaya22/go-rest-template?style=flat-square&label=&color=0F1319&logo=github) |
 | [**apollon**](https://github.com/antoniopaya22/apollon) | Defence against Adversarial ML attacks on IDS · [paper](https://doi.org/10.1016/j.cose.2023.103546) | ![stars](https://img.shields.io/github/stars/antoniopaya22/apollon?style=flat-square&label=&color=0F1319&logo=github) |
 | [**Software-Defined-Perimeter**](https://github.com/antoniopaya22/Software-Defined-Perimeter) | Automated, secure SDP deployments · [preprint](https://doi.org/10.2139/ssrn.4326496) | ![stars](https://img.shields.io/github/stars/antoniopaya22/Software-Defined-Perimeter?style=flat-square&label=&color=0F1319&logo=github) |
 | [**egida**](https://github.com/Egida-Kassandra/egida) | DSL for highly secure infrastructure deployment · [paper](https://doi.org/10.1016/j.cose.2022.102638) | ![stars](https://img.shields.io/github/stars/Egida-Kassandra/egida?style=flat-square&label=&color=0F1319&logo=github) |
