@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-label="Antonio Payá González — Software Architect, Professor at UNIR, PhD">
+  <title>Antonio Payá González — Software Architect · Professor @ UNIR · PhD</title>
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="0"><stop offset="0.1" stop-color="#3F6B00"/><stop offset="0.9" stop-color="#0E7490"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#E2E5DF" stroke-width="1" opacity="0.6"/></pattern>
+    <clipPath id="w"><rect x="1" y="1" width="998" height="358" rx="14"/></clipPath>
+  </defs>
+  <style>
+    @keyframes type { from { transform: translateX(0); } to { transform: translateX(var(--w)); } }
+    @keyframes fade { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes show { from { visibility: hidden; } to { visibility: visible; } }
+    .f1 { animation: fade .8s ease-out 1.3s both; }
+    .f2 { animation: fade .8s ease-out 1.55s both; }
+    .f3 { animation: fade .8s ease-out 4.2s both; }
+    .caret { animation: show .01s 4.1s both, blink 1s steps(1) 4.1s infinite; }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <g clip-path="url(#w)">
+    <rect width="1000" height="360" fill="#FFFFFF"/>
+    <rect x="620" y="44" width="380" height="316" fill="url(#grid)"/>
+    <rect width="1000" height="44" fill="#F1F3EE"/>
+    <line x1="0" y1="44" x2="1000" y2="44" stroke="#E2E5DF"/>
+    <circle cx="24" cy="22" r="6" fill="#FF5F57"/><circle cx="44" cy="22" r="6" fill="#FEBC2E"/><circle cx="64" cy="22" r="6" fill="#28C840"/>
+    <text x="90" y="27" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#5A6470">antonio@paya: ~ — zsh</text>
+    <g stroke="#C5CBC2" stroke-width="1" opacity="0.7"><line x1="760" y1="110" x2="850" y2="80"/><line x1="850" y1="80" x2="930" y2="140"/><line x1="760" y1="110" x2="820" y2="190"/><line x1="820" y1="190" x2="930" y2="140"/><line x1="820" y1="190" x2="900" y2="240"/><line x1="900" y1="240" x2="960" y2="300"/><line x1="820" y1="190" x2="780" y2="270"/><line x1="780" y1="270" x2="700" y2="200"/><line x1="700" y1="200" x2="760" y2="110"/><line x1="900" y1="240" x2="930" y2="140"/><line x1="780" y1="270" x2="900" y2="240"/></g>
+    <circle cx="760" cy="110" r="3.5" fill="#C5CBC2"/><rect x="845" y="75" width="10" height="10" fill="none" stroke="#0E7490" stroke-width="1.5"/><circle cx="930" cy="140" r="3.5" fill="#C5CBC2"/><circle cx="820" cy="190" r="3.5" fill="#C5CBC2"/><rect x="895" y="235" width="10" height="10" fill="none" stroke="#0E7490" stroke-width="1.5"/><circle cx="780" cy="270" r="3.5" fill="#C5CBC2"/><circle cx="960" cy="300" r="3.5" fill="#C5CBC2"/><circle cx="700" cy="200" r="3.5" fill="#C5CBC2"/>
+    <circle r="3.5" fill="#3F6B00"><animateMotion dur="3s" begin="0.0s" repeatCount="indefinite" path="M700,200 L760,110 L850,80 L930,140"/></circle><circle r="3.5" fill="#0E7490"><animateMotion dur="4s" begin="0.8s" repeatCount="indefinite" path="M780,270 L900,240 L960,300"/></circle><circle r="3.5" fill="#3F6B00"><animateMotion dur="5s" begin="1.6s" repeatCount="indefinite" path="M760,110 L820,190 L900,240 L930,140"/></circle>
+    <g><text x="40" y="92" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20"><tspan fill="#3F6B00">$</tspan><tspan fill="#5A6470"> whoami</tspan></text>
+    <rect x="39" y="72" width="100.0" height="28" fill="#FFFFFF" style="animation: type 0.8s steps(8) 0.3s both; --w: 100.0px"/></g>
+    <text class="f1" x="38" y="168" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="64" font-weight="800" letter-spacing="-2" fill="#0B0F14">Antonio Payá</text>
+    <text class="f2" x="38" y="236" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="64" font-weight="800" letter-spacing="-2" fill="url(#g)">González</text>
+    <g><text x="40" y="284" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20"><tspan fill="#3F6B00">&gt;</tspan><tspan fill="#0B0F14"> Software Architect · Professor @ UNIR · PhD</tspan></text>
+    <rect x="39" y="264" width="544.0" height="28" fill="#FFFFFF" style="animation: type 2.0s steps(45) 2.1s both; --w: 544.0px"/></g>
+    <rect class="caret" x="584.0" y="267" width="11" height="22" fill="#3F6B00"/>
+    <text class="f3" x="40" y="330" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#5A6470"><tspan fill="#B4237A">#</tspan> Zero Trust · Cybersecurity · Cloud · AI/ML · <tspan fill="#B45309">Gijón, ES</tspan></text>
+  </g>
+  <rect x="0.5" y="0.5" width="999" height="359" rx="14" fill="none" stroke="#E2E5DF"/>
+</svg>

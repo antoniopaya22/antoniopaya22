@@ -1,170 +1,111 @@
-<div align="center">
+<a href="https://antoniopaya22.github.io">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
+    <img alt="Antonio Payá González — Software Architect · Professor @ UNIR · PhD" src="./assets/banner-dark.svg" width="100%" />
+  </picture>
+</a>
 
-# Antonio Payá González
+<p align="center">
+  <a href="https://antoniopaya22.github.io"><img alt="Website" src="https://img.shields.io/badge/~/antonio--paya-0F1319?style=for-the-badge&logo=gnubash&logoColor=B6FF3B" /></a>
+  <a href="https://www.linkedin.com/in/antoniopaya22"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0F1319?style=for-the-badge&logo=linkedin&logoColor=5CE1E6" /></a>
+  <a href="https://scholar.google.es/citations?user=4bCBOysAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-0F1319?style=for-the-badge&logo=googlescholar&logoColor=5CE1E6" /></a>
+  <a href="https://orcid.org/0000-0003-3733-3805"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0F1319?style=for-the-badge&logo=orcid&logoColor=B6FF3B" /></a>
+  <a href="https://medium.com/@antonioalfa22"><img alt="Medium" src="https://img.shields.io/badge/Medium-0F1319?style=for-the-badge&logo=medium&logoColor=E8EDF2" /></a>
+  <a href="mailto:antoniopaya@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-0F1319?style=for-the-badge&logo=maildotru&logoColor=FFB86B" /></a>
+</p>
 
-**Software Architect** · **University Professor @ UNIR** · **PhD in Computer Engineering**
+```ts
+export const antonio = {
+  name: 'Antonio Payá González',
+  roles: ['Software Architect @ TheNextPangea', 'Professor @ UNIR'],
+  phd: { field: 'Software Engineering', university: 'University of Oviedo', year: 2025 },
+  research: ['Software-Defined Perimeter', 'Zero Trust', 'Intrusion Detection', 'Adversarial ML'],
+  location: 'Gijón, Asturias, Spain',
+  openToCollab: true, // ✓
+} as const;
+```
 
-Software Architect at [TheNextPangea](https://thenextpangea.com/), Professor at the [International University of La Rioja (UNIR)](https://www.unir.net/) and PhD in Computer Engineering from the [University of Oviedo](https://www.uniovi.es/).  
-Focused on scalable cloud architectures, AI productization and cybersecurity.  
-Researcher in Software-Defined Perimeters, Intrusion Detection Systems and Adversarial Machine Learning.
+### `$ whoami`
 
-[![Website](https://img.shields.io/badge/Website-antoniopaya22.github.io-0A0A0A?style=for-the-badge&logo=github-pages&logoColor=white)](https://antoniopaya22.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-antoniopaya22-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniopaya22)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.es/citations?user=4bCBOysAAAAJ)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-3733-3805)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@antonioalfa22)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:antoniopaya@outlook.com)
-
-</div>
-
----
-
-### 🧑‍💻 About Me
-
-- 🏗️ **Software Architect** at TheNextPangea S.L. — designing scalable cloud architectures (AWS, Azure, GCP) and deploying AI models to production
-- 👨‍🏫 **Professor** at [UNIR](https://www.unir.net/) (since Sept 2026) — Bachelor's Degree in Cybersecurity, Master's Degree in Cybersecurity, and Master's Degree in Digital Transformation through Disruptive Technologies
-- 🎓 **PhD in Computer Engineering** — University of Oviedo, research on SDP, IDS and Adversarial ML
-- 📝 Writer & Editor at [Better Programming](https://medium.com/better-programming) and [Coinmonks](https://medium.com/coinmonks) on Medium
-- 📍 Gijón, Asturias, Spain
+- 🏗️ **Software Architect** at [TheNextPangea](https://thenextpangea.com/): scalable cloud architectures on AWS, Azure and GCP, AI models in production, infrastructure as code with Terraform and Security by Design.
+- 👨‍🏫 **Professor** at [UNIR](https://www.unir.net/) (since Sept 2026): Bachelor's Degree in Cybersecurity, Master's Degree in Cybersecurity, and Master's Degree in Digital Transformation through Disruptive Technologies.
+- 🎓 **PhD in Computer Engineering**, University of Oviedo: improving Software-Defined Perimeters with intrusion detection, identity management and defences against Adversarial Machine Learning.
+- 📝 Writer and editor at Better Programming and Coinmonks on Medium.
 
 <table>
   <tr>
-    <td align="center"><b>5</b><br>JCR Publications</td>
-    <td align="center"><b>200+</b><br>Citations</td>
-    <td align="center"><b>8+</b><br>Years Experience</td>
-    <td align="center"><b>2</b><br>Hackathons Won</td>
+    <td align="center"><b>4</b><br><sub>JCR articles</sub></td>
+    <td align="center"><b>200+</b><br><sub>citations (Scholar)</sub></td>
+    <td align="center"><b>8+</b><br><sub>years of experience</sub></td>
+    <td align="center"><b>3</b><br><sub>UNIR programmes</sub></td>
+    <td align="center"><b>2</b><br><sub>hackathons won</sub></td>
   </tr>
 </table>
 
----
+### `$ ls ~/projects`
 
-### 📚 Selected Publications
+| Repository | What it is | ⭐ |
+|---|---|---|
+| [**go-rest-template**](https://github.com/antoniopaya22/go-rest-template) | Production-ready Go REST API template with Gin | ![stars](https://img.shields.io/github/stars/antoniopaya22/go-rest-template?style=flat-square&label=&color=0F1319&logo=github) |
+| [**apollon**](https://github.com/antoniopaya22/apollon) | Defence against Adversarial ML attacks on IDS · [paper](https://doi.org/10.1016/j.cose.2023.103546) | ![stars](https://img.shields.io/github/stars/antoniopaya22/apollon?style=flat-square&label=&color=0F1319&logo=github) |
+| [**Software-Defined-Perimeter**](https://github.com/antoniopaya22/Software-Defined-Perimeter) | Automated, secure SDP deployments · [preprint](https://doi.org/10.2139/ssrn.4326496) | ![stars](https://img.shields.io/github/stars/antoniopaya22/Software-Defined-Perimeter?style=flat-square&label=&color=0F1319&logo=github) |
+| [**egida**](https://github.com/Egida-Kassandra/egida) | DSL for highly secure infrastructure deployment · [paper](https://doi.org/10.1016/j.cose.2022.102638) | ![stars](https://img.shields.io/github/stars/Egida-Kassandra/egida?style=flat-square&label=&color=0F1319&logo=github) |
+| [**SimpleSDP**](https://github.com/antoniopaya22/SimpleSDP) | Simple Software-Defined Perimeter for Zero Trust access | ![stars](https://img.shields.io/github/stars/antoniopaya22/SimpleSDP?style=flat-square&label=&color=0F1319&logo=github) |
+| [**project-agent-harness**](https://github.com/antoniopaya22/project-agent-harness) | Harness for coding agents: verifiable backlog and roles | ![stars](https://img.shields.io/github/stars/antoniopaya22/project-agent-harness?style=flat-square&label=&color=0F1319&logo=github) |
 
-| # | Title | Journal | Year |
-|---|-------|---------|------|
-| 1 | [Enhancing SDP with Integrated Identity Solutions and Threat Detection for Robust Zero Trust Security](https://link.springer.com/article/10.1007/s10207-025-01099-9) | Int. J. Information Security | 2025 |
-| 2 | [SecureSDP: A Novel SDP Implementation Leveraging Multi-Factor and Biometric Authentication](https://link.springer.com/article/10.1007/s10207-024-00863-7) | Int. J. Information Security | 2024 |
-| 3 | [Apollon: A Robust Defence System against Adversarial ML Attacks in IDS](https://www.sciencedirect.com/science/article/pii/S016740482300456X) | J. Information Security and Applications | 2023 |
-| 4 | [Securing the SDP Framework with Automated Deployments and Advanced Fingerprinting](https://www.researchgate.net/publication/367325161) | J. Network and Computer Applications | 2023 |
-| 5 | [Egida: Automated Security Configuration and Testing for OS Hardening](https://www.sciencedirect.com/science/article/pii/S0167404822000372) | Computer Standards & Interfaces | 2022 |
+### `$ cat publications.bib`
 
-> 📖 Full list on [Google Scholar](https://scholar.google.es/citations?user=4bCBOysAAAAJ) · [ORCID](https://orcid.org/0000-0003-3733-3805) · [ResearchGate](https://www.researchgate.net/profile/Antonio-Paya-3)
+| Year | Title | Venue |
+|---|---|---|
+| 2025 | [Enhancing Software-Defined Perimeters with Integrated Identity Solutions and Threat Detection for Robust Zero Trust Security](https://doi.org/10.1007/s10207-025-01099-9) | *Int. J. of Information Security* |
+| 2024 | [SecureSDP: A Novel Software-Defined Perimeter Implementation for Enhanced Network Security and Scalability](https://doi.org/10.1007/s10207-024-00863-7) | *Int. J. of Information Security* |
+| 2024 | [Apollon: A Robust Defense System against Adversarial Machine Learning Attacks in Intrusion Detection Systems](https://doi.org/10.1016/j.cose.2023.103546) | *Computers & Security* |
+| 2023 | [Securing the Software-Defined Perimeter Framework with Automated Security Configuration Deployment Systems](https://doi.org/10.2139/ssrn.4326496) | *SSRN* (preprint) |
+| 2022 | [Egida: Automated Security Configuration Deployment Systems with Early Error Detection](https://doi.org/10.1016/j.cose.2022.102638) | *Computers & Security* |
 
----
+<sub>Full list on <a href="https://scholar.google.es/citations?user=4bCBOysAAAAJ">Google Scholar</a> · <a href="https://orcid.org/0000-0003-3733-3805">ORCID</a> · <a href="https://www.researchgate.net/profile/Antonio-Paya-3">ResearchGate</a></sub>
 
-### 🏆 Awards & Achievements
+### `$ cat stack.yaml`
 
-- 🥇 **HP Hackathon Winner** — HP Inc., 2019
-- 🥇 **Salesforce Hackathon Winner** — Salesforce, 2019
-- 🏅 **INNCYBER Finalist** — INCIBE, 2020
-- 🥈 **2nd Place Capgemini Challenge** — Capgemini, 2018
-- 🎬 **Jury Member** — Ajyal Film Festival (Doha, 2014) & Giffoni Film Festival (Italy, 2014)
+![AWS](https://img.shields.io/badge/AWS-0F1319?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0F1319?style=flat-square&logo=microsoftazure&logoColor=0078D4)
+![GCP](https://img.shields.io/badge/GCP-0F1319?style=flat-square&logo=googlecloud&logoColor=4285F4)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0F1319?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![Docker](https://img.shields.io/badge/Docker-0F1319?style=flat-square&logo=docker&logoColor=2496ED)
+![Terraform](https://img.shields.io/badge/Terraform-0F1319?style=flat-square&logo=terraform&logoColor=844FBA)
+![Ansible](https://img.shields.io/badge/Ansible-0F1319?style=flat-square&logo=ansible&logoColor=EE0000)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0F1319?style=flat-square&logo=githubactions&logoColor=2088FF)
+<br>
+![Go](https://img.shields.io/badge/Go-0F1319?style=flat-square&logo=go&logoColor=00ADD8)
+![Python](https://img.shields.io/badge/Python-0F1319?style=flat-square&logo=python&logoColor=3776AB)
+![.NET](https://img.shields.io/badge/.NET-0F1319?style=flat-square&logo=dotnet&logoColor=512BD4)
+![Rust](https://img.shields.io/badge/Rust-0F1319?style=flat-square&logo=rust&logoColor=E8EDF2)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F1319?style=flat-square&logo=typescript&logoColor=3178C6)
+![Node.js](https://img.shields.io/badge/Node.js-0F1319?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Spring](https://img.shields.io/badge/Spring-0F1319?style=flat-square&logo=spring&logoColor=6DB33F)
+![Astro](https://img.shields.io/badge/Astro-0F1319?style=flat-square&logo=astro&logoColor=BC52EE)
+![Angular](https://img.shields.io/badge/Angular-0F1319?style=flat-square&logo=angular&logoColor=DD0031)
+![React](https://img.shields.io/badge/React-0F1319?style=flat-square&logo=react&logoColor=61DAFB)
+<br>
+![PyTorch](https://img.shields.io/badge/PyTorch-0F1319?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0F1319?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0F1319?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F1319?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0F1319?style=flat-square&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/Redis-0F1319?style=flat-square&logo=redis&logoColor=DC382D)
+![Kafka](https://img.shields.io/badge/Kafka-0F1319?style=flat-square&logo=apachekafka&logoColor=E8EDF2)
 
----
+### `$ cat awards.txt`
 
-### 🎁 Open Source Projects
-
-<table>
-  <thead align="center">
-    <tr>
-      <td><b>Project</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 PRs</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/antoniopaya22/go-rest-template"><b>Go REST API Template</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/antoniopaya22/go-rest-template?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/antoniopaya22/go-rest-template?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/antoniopaya22/go-rest-template?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/antoniopaya22/go-rest-template?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Egida-Kassandra/egida"><b>Egida — System Hardening DSL</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Egida-Kassandra/egida?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Egida-Kassandra/egida?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Egida-Kassandra/egida?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Egida-Kassandra/egida?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/antoniopaya22/Software-Defined-Perimeter"><b>Software-Defined Perimeter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/antoniopaya22/Software-Defined-Perimeter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/antoniopaya22/Software-Defined-Perimeter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/antoniopaya22/Software-Defined-Perimeter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/antoniopaya22/Software-Defined-Perimeter?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/antoniopaya22/apollon"><b>Apollon — Adversarial ML Defence for IDS</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/antoniopaya22/apollon?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/antoniopaya22/apollon?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/antoniopaya22/apollon?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/antoniopaya22/apollon?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
+🥇 HP Hackathon winner (2019) · 🥇 Salesforce Hackathon winner (2019) · 🏅 INNCYBER finalist, INCIBE (2020) · 🥈 2nd place, Capgemini Challenge (2018)
 
 ---
 
-### 🛠️ Tech Stack
-
-**Languages**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C#/.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend & Runtime**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-
-**AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-**Data & Tools**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-
----
-
-<div align="center">
-  <i>Open to research collaborations, technical partnerships, or just a good conversation about technology.</i>
+<p align="center">
+  🏁 <b>There is a hidden CTF in the terminal on <a href="https://antoniopaya22.github.io">my website</a>. Can you find the flag?</b>
   <br><br>
+  <sub>Open to research collaborations, technical partnerships, talks or just a good conversation about technology.</sub>
+  <br>
   <a href="mailto:antoniopaya@outlook.com">📬 Get in touch</a> · <a href="https://antoniopaya22.github.io">🌐 Website</a> · <a href="https://antoniopaya22.github.io/cv-antonio-paya.pdf">📄 CV</a>
-</div>
+</p>
