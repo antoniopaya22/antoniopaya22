@@ -30,7 +30,7 @@ export const antonio = {
 
 - 🏗️ **Software Architect** at [TheNextPangea](https://thenextpangea.com/): scalable cloud architectures on AWS, Azure and GCP, AI models in production, infrastructure as code with Terraform and Security by Design.
 - 👨‍🏫 **Professor** at [UNIR](https://www.unir.net/) (since Sept 2026): Bachelor's Degree in Cybersecurity, Master's Degree in Cybersecurity, and Master's Degree in Digital Transformation through Disruptive Technologies.
-- 🎓 **PhD in Computer Engineering**, University of Oviedo: improving Software-Defined Perimeters with intrusion detection, identity management and defences against Adversarial Machine Learning.
+- 🎓 **PhD in Computer Science**, University of Oviedo: improving Software-Defined Perimeters with intrusion detection, identity management and defences against Adversarial Machine Learning.
 - 📝 Writer and editor at Better Programming and Coinmonks on Medium.
 
 <table>
@@ -39,7 +39,7 @@ export const antonio = {
     <td align="center"><b>200+</b><br><sub>citations (Scholar)</sub></td>
     <td align="center"><b>8+</b><br><sub>years of experience</sub></td>
     <td align="center"><b>3</b><br><sub>UNIR programmes</sub></td>
-    <td align="center"><b>2</b><br><sub>hackathons won</sub></td>
+    <td align="center"><b>3</b><br><sub>hackathons won</sub></td>
   </tr>
 </table>
 
@@ -98,7 +98,7 @@ export const antonio = {
 
 ### `$ cat awards.txt`
 
-🥇 HP Hackathon winner (2019) · 🥇 Salesforce Hackathon winner (2019) · 🏅 INNCYBER finalist, INCIBE (2020) · 🥈 2nd place, Capgemini Challenge (2018)
+🥇 HP Hackathon winner (2019) · 🥇 Salesforce Hackathon winner (2019) · 🥇 Capgemini Hackathon winner (2018) · 🏅 Top 3, INNCYBER Innovation Hub, INCIBE (2020)
 
 ---
 
